@@ -41,6 +41,6 @@ The dataset includes the following columns:
 ## Usage
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/Tejas-0305/comcast-telecom-consumer-complaints-analysis.git
+   https://github.com/Tejas-0305/comcast-telecom-consumer-complaints-analysis
 
    
